@@ -9,3 +9,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet — the 20-week plan doesn't start until 7 Dec 2026, so this falls in the pre-plan base period, where the guidance is just steady easy aerobic volume.
 
 **Verdict: on target, easy as intended.** Effort matched an easy day, nothing to adjust. The long stopped section mid-run doesn't affect the training read, just watch for it skewing elapsed-time-based stats if it recurs.
+
+## 2026-08-28 — Apex Tempo (AM)
+
+- Session logged as three activities back to back: easy warm-up (1.82km, ~5:24/km) → Apex Tempo main set (7.30km, moving 32:17, elapsed 34:29) → easy cool-down (1.30km, ~5:38/km). Total ~10.4km for the session.
+- Workout as prescribed: 5 x 5min at half-marathon effort, 90" floating recovery, plus 4 x 20" strides.
+- Main-set work pace came in around 4:10-4:14/km — noticeably faster than your current HM-pace reference of ~4:27/km (from the 1:34:00 half).
+- Heart rate: avg 172 bpm, max 183 bpm across the main set, and it climbed rep to rep instead of holding steady — rep 1 ~161 bpm (Z3), reps 2-4 ~173-176 bpm (Z4), rep 5 ~176-181 bpm, drifting into Z5 (cap 180).
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), so this is judged against the workout's own stated intent (HM effort) rather than a plan target.
+
+**Verdict: too hard.** The reps were run ~15-17 sec/km quicker than HM pace, and heart rate drifted from Z3 into Z5 by the last rep rather than staying level — a sign of starting too aggressive rather than a controlled "floating" effort. For the next few Apex tempo sessions, start rep 1 closer to true HM pace (~4:25-4:30/km) and let effort rise only slightly across reps. Same stimulus, less of a fatigue hole heading into the next quality day.
