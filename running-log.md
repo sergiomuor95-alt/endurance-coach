@@ -28,3 +28,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet — pre-plan base period (the 20-week plan starts 7 Dec 2026), so this is judged against general easy-aerobic guidance.
 
 **Verdict: on target, easy as intended.** Splits held a consistent easy effort (~5:50/km, HR mostly 128-141) both before and after the stop, nothing pushed. This is the second run in three days with a long mid-run stop (also seen Aug 27) — worth a quick check on whether that's a routine break (crossing, dog walk) or a GPS/device hiccup, since it keeps skewing elapsed-time-based stats.
+
+## 2026-08-30 — "Happy marathon day" (Half Marathon race)
+
+- Distance: 21.23km, moving time 1:48:30, elapsed time 2:07:32 (~19 min gap, likely start-corral/aid-station time on a race course rather than a stray stop)
+- Pace: ~5:07/km average (moving basis), but this was a strong negative split — opened around 6:10/km (km 1) and progressively dropped to ~4:11-4:32/km for the final 3-4km
+- Heart rate: avg 150 bpm, max 177 bpm. Climbed in step with the pacing — Zone 1 (127-129 bpm) for the first couple km, drifting through Z2/Z3 mid-race, into Z4 (167-177 bpm) only in the closing kilometers
+- 58 PRs / 60 achievements logged — this reads as a real timed half marathon race, not a training run
+- No day-specific target in plan.md — this predates the 20-week plan (starts 7 Dec 2026) and isn't the plan's optional Week 12 tune-up half. Judged against general base-period guidance (steady easy aerobic volume) plus basic load-management sense, since a spontaneous half marathon isn't really an "easy day."
+
+**Verdict: pacing was excellent, but this is a big, unplanned jump in distance.** The negative-split execution — easy start, strong controlled finish — is exactly the discipline the plan wants for London (the opposite of the Tokyo blow-up at 32km). Nothing to fix there. The concern is load: current base is ~32-35km/week with a longest recent run of just 7.26km three days ago, and this single run was already 21km with a hard finish. That's a big spike relative to base, and worth respecting given the ankle history flagged in plan.md. Treat the next 2-3 days as easy/recovery (short, slow, or rest), skip any quality session until legs feel normal, and don't let this become a habit of unplanned hard efforts before the structured ramp starts in December.
