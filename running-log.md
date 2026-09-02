@@ -48,3 +48,12 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), so this is judged against the workout's own stated structure and against HM effort as the intended intensity, consistent with how the Aug 28 Apex Tempo was judged.
 
 **Verdict: too hard, and this is the same pattern flagged on Aug 28.** Both Apex sessions this base period have been run 15-20 sec/km faster than HM pace with HR drifting into Zone 4/5 and recovery jogs failing to bring HR back down. That's not a one-off — it's how these sessions are consistently being paced. For the next Apex Tuesdays, start the first rep deliberately conservative (HM effort, ~4:25-4:30/km) and use a HR ceiling (stay under ~165 bpm, Zone 3) rather than pacing off feel, since feel is clearly running hot right now. If HR doesn't drop close to Zone 1/2 during the 90" jog, that's the signal to ease the next rep rather than matching or beating the previous one.
+
+## 2026-09-02 — Morning Weight Training
+
+- Strength session, not a run: 47:16 elapsed/moving time, no distance or pace data
+- Heart rate: avg 103 bpm, max 138 bpm — Zone 1, well within an easy strength-day range
+- Logged work: Lunges (glutes/hamstrings/quads), 83 steps total across sets
+- Plan.md's "2x/week hypertrophy focus, plus ankle stability work each session" strength guidance is a Foundation & Build phase (Wk 1-12) target that only applies once the 20-week plan starts 7 Dec 2026, so this is judged loosely against general base-period strength maintenance rather than a formal target.
+
+**Verdict: on target, easy effort as expected for a strength session.** Low, steady heart rate with no spikes suggests controlled loading rather than a cardio-heavy circuit. Lunges give some incidental ankle/knee stability work, but nothing logged here looks like dedicated ankle stability drills — worth adding those explicitly once the plan's Foundation phase strength guidance kicks in, given the ankle history flagged in plan.md.
