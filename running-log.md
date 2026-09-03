@@ -57,3 +57,12 @@ Entries below are added automatically after each analyzed activity.
 - Plan.md's "2x/week hypertrophy focus, plus ankle stability work each session" strength guidance is a Foundation & Build phase (Wk 1-12) target that only applies once the 20-week plan starts 7 Dec 2026, so this is judged loosely against general base-period strength maintenance rather than a formal target.
 
 **Verdict: on target, easy effort as expected for a strength session.** Low, steady heart rate with no spikes suggests controlled loading rather than a cardio-heavy circuit. Lunges give some incidental ankle/knee stability work, but nothing logged here looks like dedicated ankle stability drills — worth adding those explicitly once the plan's Foundation phase strength guidance kicks in, given the ankle history flagged in plan.md.
+
+## 2026-09-03 — Morning Run
+
+- Distance: 7.06km, moving time 36:26, elapsed time 40:53 (~4:30 gap within the 4th km, a short stop rather than the longer mid-run breaks seen earlier this block)
+- Pace: ~5:11/km (moving time basis); even 5:04-5:22/km through the first 6km, then a quicker final km around 4:32/km
+- Heart rate: avg 136 bpm, max 170 bpm — Zone 1 overall (cap 143), but climbed into Zone 3/4 (148-166 bpm avg for that split, max 169) on the faster final km
+- No day-specific target in plan.md yet — pre-plan base period (20-week plan starts 7 Dec 2026), judged against general easy-aerobic guidance.
+
+**Verdict: on target, easy as intended.** The bulk of the run held a controlled easy pace and heart rate, with only the last kilometre picked up — reads like a natural finish surge or strides rather than a pacing problem, nothing to adjust. Another short mid-run stop, continuing the pattern seen on Aug 27 and Aug 29 — still just worth a check on whether it's routine (crossing, dog walk) or a device/GPS quirk, since it's now shown up on several easy runs.
