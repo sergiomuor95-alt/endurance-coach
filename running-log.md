@@ -66,3 +66,14 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet — pre-plan base period (20-week plan starts 7 Dec 2026), judged against general easy-aerobic guidance.
 
 **Verdict: on target, easy as intended.** The bulk of the run held a controlled easy pace and heart rate, with only the last kilometre picked up — reads like a natural finish surge or strides rather than a pacing problem, nothing to adjust. Another short mid-run stop, continuing the pattern seen on Aug 27 and Aug 29 — still just worth a check on whether it's routine (crossing, dog walk) or a device/GPS quirk, since it's now shown up on several easy runs.
+
+## 2026-09-04 — Apex Tempo
+
+- Session logged as three activities back to back: easy warm-up (1.84km, ~5:09/km, avg HR 142 bpm — Zone 1, brief pickup to Zone 3 near the end) → Apex Tempo main set (7.45km, moving 32:25, elapsed 33:02) → cool-down with a finishing sprint (1.01km, ~5:22/km, avg HR 155 bpm — Zone 3, from a "sprint to the end" effort in the final few metres). Total ~10.3km for the session.
+- Workout as prescribed: 3 x 10' (8' HM effort + 2' ~10K effort), 90" floating rest between reps.
+- The 8-minute HM-effort portions ran progressively faster: rep 1 ~4:21/km (about right for the HM-pace target), reps 2-3 ~4:08-4:13/km — clearly quicker than target and than your HM-pace reference of ~4:27/km.
+- The 2-minute 10K-effort portions came in around 3:45-3:55/km, getting faster each rep — the right direction for a 10K surge, but stacking on top of an already-too-fast HM section rather than a controlled step up.
+- Heart rate: avg 173 bpm (Zone 4, cap 180) across the main set, max 191 bpm (deep Zone 5, cap for Z4 is 180) on rep 3's fast section. The 90" recoveries only brought HR down to Zone 2/3 (148-160 bpm avg), not toward Zone 1, so fatigue built rep to rep instead of resetting.
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against the workout's own stated structure and HM effort, consistent with how the Aug 28 and Sep 1 Apex sessions were judged.
+
+**Verdict: too hard again — third Apex session in a row with the same pattern.** Aug 28, Sep 1, and now Sep 4 have all been paced 15-20 sec/km quicker than HM effort with HR drifting into Zone 4/5 and recoveries not resetting. "Start conservative and watch a HR ceiling" hasn't changed the pattern the last two times it was suggested, so for the next Apex session try something more mechanical: set a hard audible HR alarm around 165 bpm (mid-Zone 3) for the HM-effort portions specifically, and treat Zone 4 as reserved for the 2-minute fast section only. If the alarm keeps firing during the HM portion, that's the cue to physically back off pace in the moment, not just note it afterward.
