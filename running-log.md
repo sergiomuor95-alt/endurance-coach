@@ -77,3 +77,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against the workout's own stated structure and HM effort, consistent with how the Aug 28 and Sep 1 Apex sessions were judged.
 
 **Verdict: too hard again — third Apex session in a row with the same pattern.** Aug 28, Sep 1, and now Sep 4 have all been paced 15-20 sec/km quicker than HM effort with HR drifting into Zone 4/5 and recoveries not resetting. "Start conservative and watch a HR ceiling" hasn't changed the pattern the last two times it was suggested, so for the next Apex session try something more mechanical: set a hard audible HR alarm around 165 bpm (mid-Zone 3) for the HM-effort portions specifically, and treat Zone 4 as reserved for the 2-minute fast section only. If the alarm keeps firing during the HM portion, that's the cue to physically back off pace in the moment, not just note it afterward.
+
+## 2026-09-05 — Morning Run
+
+- Distance: 5.62km, moving time 32:12, elapsed time 35:12 (~3 min gap)
+- Pace: ~5:44/km (moving time basis); splits built progressively — 5:56, 6:01, 5:42, 5:44, 5:35/km across the first 5km, then a hard finishing kick over the last ~618m at ~5:11/km pace
+- Heart rate: avg 138 bpm — Zone 1/2 border (Zone 1 cap 143), climbing to a max of 168 bpm (Zone 3) only in the closing kick
+- Logged against a "Centennial parkrun" segment, so this reads as a timed Saturday parkrun rather than a routine solo easy run
+- No day-specific target in plan.md yet — pre-plan base period (20-week plan starts 7 Dec 2026), judged against general easy-aerobic guidance and the "a natural finish surge is fine" precedent set on Sep 3
+
+**Verdict: on target.** The bulk of the run held a controlled, easy-to-moderate aerobic effort (Zone 1/2, ~5:4x-5:5x/km) with heart rate only touching Zone 3 in a short, deliberate finishing kick — the same "steady base, hard last bit" shape as Sep 3, not a repeat of the Apex pacing problem. Nothing to adjust here. Distance was on the short side (5.62km) but that's fine as one easy/parkrun day among the week's volume, especially with three tough Apex-pattern sessions logged this block — good to keep this one easy rather than turning parkrun into a fourth hard effort.
