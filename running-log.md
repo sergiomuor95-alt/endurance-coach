@@ -141,3 +141,20 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance and against the load-management flags raised repeatedly this block (Sep 6, Sep 8, and Sep 11)
 
 **Verdict: the pacing shape itself is fine — a normal, deliberately negative-split parkrun, holding easy through 3km before racing the last 2km — but the timing is the same problem flagged all block.** This lands the day immediately after the Sep 11 Apex session, itself the fourth Apex in a row logged as too hard, with zero rest or easy day in between. Racing a parkrun's back half into Zone 4/5 HR is a reasonable choice on a day chosen for it, but not the day after a session that was already flagged as overcooked. The suggested HR-ceiling and pace-cap fixes from Sep 4 and Sep 11 haven't changed the Apex sessions, and now the recovery-day gap around them is shrinking too. Before the 20-week plan starts in December, the more useful adjustment may not be pacing within any single session, but building in a genuinely protected easy/rest day right after every hard or racey effort, and treating that gap as non-negotiable the same way cutback weeks are meant to be.
+
+## 2026-09-13 — SLR (Sunday Long Run)
+
+- Distance: 21.51km, moving time 1:47:01, elapsed time 1:55:44 (~8:43 gap, mostly a stop early on around the 1.5km mark)
+- Workout as prescribed: 5km warm-up, 3 x (3km HM pace + 1km recovery jog), 5km cool-down
+- Warm-up (km1-5): 5:43, 5:17, 5:22, 5:16, 5:26/km, HR 141/131/145/141/138 — Zone 1/2, a genuinely easy build into the session
+- Main set vs the ~4:27/km HM-pace reference used throughout this block:
+  - Rep 1 (3km): 4:34, 4:33, 4:18/km (avg ~4:28/km) — right on target, HR 154/155/166 (Zone 3)
+  - Recovery 1 (1km): 5:19/km, HR 151 (Zone 2/3 border)
+  - Rep 2 (3km): 4:22, 4:18, 4:27/km (avg ~4:22/km) — about 5 sec/km quicker than target, HR 164/170/168 (Zone 3/4)
+  - Recovery 2 (1km): 5:15/km, HR 153 (Zone 2/3 border)
+  - Rep 3 (3km): 4:26, 4:21, 4:22/km (avg ~4:23/km) — quicker again, HR 171/173/174 (Zone 4)
+  - Recovery 3 (1km): 5:27/km, HR 155 (Zone 2/3 border)
+- Cool-down (km18-21.5): 5:47, 5:23, 5:25, 5:18/km, then a hard finishing 500m at ~4:38/km pace up the Harbour Bridge stairs (18.8m climb), HR peaking at 181 (Zone 5) — a hill push rather than a true easy finish, echoing the Sep 11 "cool-down found a hill" pattern
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against the workout's own prescribed structure and the HM-pace reference used for prior Apex sessions
+
+**Verdict: the best-paced quality session logged this block, but it landed with zero recovery gap after Saturday's hard parkrun finish.** Execution-wise this is a real improvement: rep 1 hit the HM-pace target almost exactly, and reps 2-3 only drifted ~5 sec/km quicker rather than the 15-20 sec/km overcooking seen on every Apex session since Aug 28 — whatever changed here, it's worth repeating. The two soft spots are minor by comparison: recovery kms held HR at the Zone 2/3 border instead of dropping toward Zone 1, and the "cool-down" again found a hill to push up rather than settling down. The bigger issue is scheduling, not pacing: this 21.5km session with embedded race-pace work came the day immediately after the Sep 12 parkrun's hard negative-split finish, with no easy or rest day between them — continuing exactly the recovery-gap pattern flagged on Sep 6, 8, 11, and 12. It's also the third ~21km-plus effort inside two weeks (Aug 30, Sep 6, now Sep 13), and this one carried more built-in intensity than the previous two, not less. The pacing fix that's been elusive all block finally landed today; the recovery-gap fix hasn't, and needs to before the structured plan starts in December — the next couple of days should be genuinely easy or rest, no exceptions.
