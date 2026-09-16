@@ -178,3 +178,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md for cross-training yet (pre-plan base period, plan starts 7 Dec 2026; the plan's strength guidance — 2x/week hypertrophy plus ankle stability — only applies once the 20-week block begins), judged against general load-management guidance and today's already-logged Apex Tuesdays session
 
 **Verdict: fine in isolation, but stacked on a day already flagged as too hard.** The HR pattern itself is unremarkable for HIIT — mostly easy with brief hard bursts — and relative effort was low. The concern is timing: this is a second hard-flavored session on the same calendar day as this morning's Apex Tuesdays run, which was itself logged as the fifth-in-a-row overcooked Apex session (avg HR Zone 4, peak Zone 5, recovery reps not resetting). Sep 14's rest day bought one clean recovery gap after the Sep 13 SLR, and this evening session partly spends it back down same-day. Nothing to change about this session's own execution, but as the structured plan approaches in December, keep evening cross-training easy (which this was) on any day that already carried a hard morning run, and don't let a low-effort HIIT session become a reason to skip a genuine rest day when one's actually needed.
+
+## 2026-09-16 — Morning Run
+
+- Distance: 8.75km, moving time 47:47, elapsed time 51:26 (~3:39 gap)
+- Pace: ~5:28/km (moving-time basis); per-km splits held a tight band — 5:42, 5:34, 5:27, 5:21, 5:32, 5:22, 5:32, 5:22/km, then ~5:12/km pace over the final ~747m — no real surging
+- Heart rate: avg 146.5 bpm, solidly Zone 2 (Z1 ≤144, Z2 145-160), max 166 bpm (Zone 3) touched only briefly on two uphill segments (Dalleys Rd Climb, Gore Hill Cemetery Hill x2) and a short ~30m "sprint to the end" burst
+- Route carried 87m of elevation gain around the Gore Hill Oval/Dalleys Rd area — hillier than a flat easy loop, but HR tracked the terrain rather than staying elevated throughout
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance and against yesterday's flag (Sep 15 Apex Tuesdays plus evening HIIT, both logged as hard, with an easy day called for next)
+
+**Verdict: on target.** This is exactly the easy day called for after Sep 15's double-hard day — HR sat in Zone 2 almost the entire run, splits were even with no meaningful surging, and the few Zone 3 touches were terrain-driven (hill segments, one short sprint) rather than pace-driven. Nothing to adjust; keep pairing hard Apex/HIIT days with a genuinely easy run like this one.
