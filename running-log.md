@@ -188,3 +188,12 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance and against yesterday's flag (Sep 15 Apex Tuesdays plus evening HIIT, both logged as hard, with an easy day called for next)
 
 **Verdict: on target.** This is exactly the easy day called for after Sep 15's double-hard day — HR sat in Zone 2 almost the entire run, splits were even with no meaningful surging, and the few Zone 3 touches were terrain-driven (hill segments, one short sprint) rather than pace-driven. Nothing to adjust; keep pairing hard Apex/HIIT days with a genuinely easy run like this one.
+
+## 2026-09-17 — Morning Yoga
+
+- Activity type: Yoga, 56:13 duration (no distance/pace — off-feet recovery session)
+- Heart rate: avg 103 bpm, max 118 bpm — comfortably Zone 1, the lowest average HR logged this block
+- 316 calories, relative effort 7 (low, consistent with a genuine recovery session, not a training stimulus)
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general recovery guidance and yesterday's on-target easy run (Sep 16)
+
+**Verdict: on target, nothing to flag.** A genuinely low-HR, low-effort session the day after a properly easy Sep 16 run — exactly the kind of recovery day that's been missing at other points this block. No adjustment needed; keep cross-training sessions like this one easy rather than letting them creep into effort territory.
