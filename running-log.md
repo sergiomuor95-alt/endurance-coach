@@ -197,3 +197,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general recovery guidance and yesterday's on-target easy run (Sep 16)
 
 **Verdict: on target, nothing to flag.** A genuinely low-HR, low-effort session the day after a properly easy Sep 16 run — exactly the kind of recovery day that's been missing at other points this block. No adjustment needed; keep cross-training sessions like this one easy rather than letting them creep into effort territory.
+
+## 2026-09-19 — Morning Run
+
+- Distance: 12.02km, moving time 61:05, elapsed time 88:54 (~27:49 gap — this reads as a sightseeing/photo-stop run over the Sydney Harbour Bridge, not a stray device issue: several segments show moving time far below elapsed time, e.g. "Oval To Fountain" at 71s moving inside a 406s elapsed window, plus very low cadence, 14-61 spm, on those same stretches)
+- Pace: ~5:05/km (moving-time basis)
+- Heart rate: avg 153.7 bpm (Zone 2, Z1 ≤144/Z2 145-160/Z3 161-168/Z4 169-180/Z5 181+), max 184 bpm (Zone 5). By km lap: 129→139→153→169→164→166→166→160→148→152→154→149 bpm avg — an easy first two km, a hard middle third climbing into Zone 3/4 (peaking Zone 5 briefly, max 184, on lap 4), then settling back to Zone 2 for the back half
+- Route included 107m elevation gain with a Harbour Bridge stair segment ("top Nth stairs to top Sth stairs", 199m gain) landing right in the Zone 4/5 spike window — the hard middle stretch is terrain-driven (the bridge climb/stairs), not a pacing choice
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance; last logged session was Sep 17's easy recovery yoga, so this follows a clean recovery gap
+
+**Verdict: on target overall, with a terrain-driven hard patch, not a pacing problem.** Average Zone 2 HR and an easy start/finish match a normal aerobic effort; the Zone 4/5 spike sits exactly on the bridge stair climb, which is expected load for that kind of hill, not overcooked pacing like the Apex sessions flagged earlier this block. Nothing to correct here, but since this carried more real elevation/cardiac load than a flat easy run, treat the next session as a genuinely easy one before any quality work.
