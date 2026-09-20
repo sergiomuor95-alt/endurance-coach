@@ -218,3 +218,12 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance and yesterday's explicit call for "a genuinely easy [next] session" after Sep 19's harder bridge climb
 
 **Verdict: too hard, and the recovery-gap pattern is back.** Yesterday's note called for today to be a genuinely easy session after the Harbour Bridge run's Zone 4/5 climb load. Instead, this 22km effort spent two separate stretches in Zone 4/5 — a full sustained kilometre averaging Zone 5 at km14, and a Zone 4 finish over the last few km — and, unlike Sep 19, neither patch was terrain-driven: both came on flat ground at some of the run's faster paces, meaning the extra effort was chosen or crept in rather than forced by the route. This is the same shape of problem flagged repeatedly this block (Sep 6, 8, 11, 12, 13, 15): a genuinely easy day gets called for and then a session with hard patches lands instead, back-to-back with another substantial effort. With two harder-than-intended days now in a row (Sep 19's bridge climb, today's Zone 4/5 surges), the next session should be a true easy day or rest — no exceptions — before any more volume gets added.
+
+## 2026-09-20 — Afternoon Yoga
+
+- Activity type: Yoga, 62:22 duration (no distance/pace — off-feet recovery session)
+- Heart rate: avg 108.3 bpm, max 130 bpm — comfortably Zone 1 (cap 144), lower than this morning's run across the board
+- 387 calories, relative effort 9 (low, consistent with a genuine recovery session, not a training stimulus)
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general recovery guidance and against this morning's own Zone 4/5 run logged just above
+
+**Verdict: on target, genuine recovery.** This isn't the "true easy day" the morning run's note called for — that call was about the *next* session, and this is same-day cross-training — but low, steady HR with no spikes is exactly the right shape for winding down after a hard morning effort. Nothing to adjust here; the actual test is still what tomorrow's session looks like. Given today's run was flagged as too hard with no clean recovery gap before it, tomorrow should be the genuinely easy or rest day, not another push.
