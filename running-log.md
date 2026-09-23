@@ -227,3 +227,14 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general recovery guidance and against this morning's own Zone 4/5 run logged just above
 
 **Verdict: on target, genuine recovery.** This isn't the "true easy day" the morning run's note called for — that call was about the *next* session, and this is same-day cross-training — but low, steady HR with no spikes is exactly the right shape for winding down after a hard morning effort. Nothing to adjust here; the actual test is still what tomorrow's session looks like. Given today's run was flagged as too hard with no clean recovery gap before it, tomorrow should be the genuinely easy or rest day, not another push.
+
+## 2026-09-23 — Afternoon Run
+
+- Distance: 6.04km, moving/elapsed time 28:43 (no gap — continuous effort, no stops)
+- Structure: a clean progression run, building pace every kilometre: 5:14, 5:05, 4:55, 4:36, 4:26, 4:17/km (avg ~4:45/km), plus a closing ~37m at similar pace
+- Heart rate: avg 152 bpm (Zone 2/3 border; Z1 ≤144/Z2 145-160/Z3 161-168/Z4 169-180/Z5 181+), max 169 bpm (just touching the Zone 3/4 border in the final ~30m). By km: 140→144→151→156→161→162 bpm avg — Zone 1 for the opening two km, sliding into Zone 2 through the middle, finishing in Zone 3 without spilling into Zone 4/5
+- Power backs up the pacing story: avg watts climbed steadily 337→348→363→387→401→413 across the six splits while cadence held flat around 85 spm — reads as a deliberate, well-controlled progression effort, not drift or a stray hard patch
+- Two rest days preceded this (Sep 21-22, nothing logged) after Sep 20's flagged "too hard" morning run and its recovery yoga — the clean recovery gap actually landed this time
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general aerobic-progression guidance and against Sep 20's explicit call for "a true easy day or rest... before any more volume gets added"
+
+**Verdict: on target, and the recovery-gap fix finally held.** This wasn't a rest day, but it also wasn't a repeat of the pattern flagged all block — pace and HR built together in lockstep, kilometre by kilometre, and the effort topped out in Zone 3 rather than spilling into Zone 4/5 the way recent "easy" runs have. Combined with two clean rest days beforehand, this is the shape of session that's been missing: controlled load stacked on genuine recovery. Nothing to adjust; if short progression runs like this become a regular feature, keep them around this length (~6km) rather than stretching the fast end further, given the ankle-stability and load-management concerns already flagged for the plan ahead.
