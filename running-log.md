@@ -238,3 +238,14 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general aerobic-progression guidance and against Sep 20's explicit call for "a true easy day or rest... before any more volume gets added"
 
 **Verdict: on target, and the recovery-gap fix finally held.** This wasn't a rest day, but it also wasn't a repeat of the pattern flagged all block — pace and HR built together in lockstep, kilometre by kilometre, and the effort topped out in Zone 3 rather than spilling into Zone 4/5 the way recent "easy" runs have. Combined with two clean rest days beforehand, this is the shape of session that's been missing: controlled load stacked on genuine recovery. Nothing to adjust; if short progression runs like this become a regular feature, keep them around this length (~6km) rather than stretching the fast end further, given the ankle-stability and load-management concerns already flagged for the plan ahead.
+
+## 2026-09-26 — Morning Run
+
+- Distance: 4.35km, moving time 27:29, elapsed time 27:56 (~27s gap, negligible)
+- Pace: ~6:19/km (moving-time basis); per-km splits 6:38, 6:04, 6:29 (17s stop mid-lap), 6:11/km, then ~5:56/km pace over the closing ~354m — a settled, unhurried effort with no surging
+- Heart rate: avg 131.3 bpm, comfortably Zone 1 (Z1 ≤144/Z2 145-160/Z3 161-168/Z4 169-180/Z5 181+), max 141 bpm — never left Zone 1 all run
+- Relative effort 5, the lowest of any run logged this block — a short, genuine shakeout rather than a training stimulus
+- Two rest days preceded this (Sep 24-25, nothing logged) after Sep 23's on-target progression run
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance and against Sep 23's note that controlled progression efforts should stay stacked on genuine recovery
+
+**Verdict: on target, genuine easy day.** Zone 1 the whole way, no pace surges, and it follows two clean rest days after the well-executed Sep 23 progression run — exactly the pattern that's been working best this block. The only thing worth noting is distance: at 4.35km this is shorter than anything else logged recently (most easy runs this block ran 8km+), so it reads more like a shakeout than a full aerobic session. Nothing to correct, but if short outings like this become regular, keep an eye on total weekly volume holding up ahead of the December plan start rather than easy days quietly shrinking.
