@@ -249,3 +249,14 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance and against Sep 23's note that controlled progression efforts should stay stacked on genuine recovery
 
 **Verdict: on target, genuine easy day.** Zone 1 the whole way, no pace surges, and it follows two clean rest days after the well-executed Sep 23 progression run — exactly the pattern that's been working best this block. The only thing worth noting is distance: at 4.35km this is shorter than anything else logged recently (most easy runs this block ran 8km+), so it reads more like a shakeout than a full aerobic session. Nothing to correct, but if short outings like this become regular, keep an eye on total weekly volume holding up ahead of the December plan start rather than easy days quietly shrinking.
+
+## 2026-09-27 — Afternoon Run
+
+- Distance: 5.39km, moving time 27:37, elapsed time 2h14:11 (~1h46 gap — a sightseeing run around the Pyrmont/Anzac Bridge area with long photo/rest stops, not a device issue: segments like "Anzac Bridge Climb - East" and "Bottom to the pylon" show 50+ minutes elapsed against 5-6 minutes moving, with cadence collapsing to ~10 spm on those same stretches)
+- Pace: ~5:07/km (moving-time basis); by km lap: 6:13, 5:02, 4:54, 4:52, 4:53/km, then ~4:26/km pace over the closing ~390m — a strong finishing kick
+- Heart rate: avg 143.4 bpm (Zone 1/2 border; Z1 ≤144/Z2 145-160/Z3 161-168/Z4 169-180/Z5 181+), max 173 bpm (Zone 4). By lap: 142→133→141→145→150 bpm avg, then 164 bpm avg (max 170) on the final short surge — an easy-to-moderate cruise with one deliberate hard finish, not sustained high effort
+- Route carried real climbing (Anzac Bridge, Pyrmont Bridge, a steep "Up Bowman to the Gatehouse" segment with 33m gain over 260m, avg HR 156; "The Grind" segment avg HR 165) — the Zone 4 touches sit on these climbs and the closing surge, not on flat-ground pacing drift
+- One rest day preceded this (no Strava activity logged) after Sep 26's short easy shakeout
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance
+
+**Verdict: on target.** Average HR sat right at the Zone 1/2 line for a sightseeing-paced run with long bridge stops, and the only Zone 4 touches were a genuinely steep gatehouse climb and a short, controlled finishing kick — not overcooked pacing on flat ground like the pattern flagged earlier this block (Sep 20 etc.). Nothing to adjust; this reads as a relaxed, low-stress aerobic day, a fine follow-up to Sep 26's shakeout.
