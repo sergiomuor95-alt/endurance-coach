@@ -260,3 +260,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance
 
 **Verdict: on target.** Average HR sat right at the Zone 1/2 line for a sightseeing-paced run with long bridge stops, and the only Zone 4 touches were a genuinely steep gatehouse climb and a short, controlled finishing kick — not overcooked pacing on flat ground like the pattern flagged earlier this block (Sep 20 etc.). Nothing to adjust; this reads as a relaxed, low-stress aerobic day, a fine follow-up to Sep 26's shakeout.
+
+## 2026-09-29 — Evening Session: 3 x 8' Intervals (with warm-up/cooldown)
+
+- Session logged as three activities back to back: warm-up (2.02km, moving 10:50, ~5:22/km) → main set titled "Back after a week off 😷" / "3 x 8' - 2 min rest" (5.90km, moving 28:05) → cooldown (1.25km, moving 6:42, ~5:21/km). Total ~9.17km for the session.
+- Main set structure: three ~8-minute efforts (~1.87-1.90km each, roughly 4:12-4:17/km) separated by ~2min float-jog rest — pace held steady rep to rep, almost no fade.
+- Heart rate did not hold steady the way pace did: rep 1 averaged ~160 bpm (Zone 2/3 border), rep 2 ~167 bpm (Zone 3), rep 3 ~173 bpm (Zone 4), with max HR hitting 187 bpm (Zone 5) right at the finish. The 2-minute rest jogs only brought HR down to ~146-150 bpm each time, not a full reset.
+- Cooldown stayed elevated too — avg 158 bpm (Zone 2/3 border), well above where an easy jog normally sits, suggesting HR hadn't settled by the end of the session.
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against the workout's own stated structure (3x8min w/ 2min rest) and against general return-to-training guidance given the self-reported illness/time off.
+
+**Verdict: too hard for a comeback session.** Pace was well controlled and consistent across all three reps, but heart rate climbed steadily anyway (Zone 2/3 → Zone 3 → Zone 4, spiking into Zone 5) and never fully recovered during the short rest jogs or even the cooldown — a classic sign of cardiovascular strain rather than a pacing problem. Going straight into a fast, evenly-paced interval session the same day as "back after a week off" is a common way to prolong or relapse an illness, even when the pace itself looks fine on paper. For the next session, run by feel/HR rather than a fixed pace: keep it easy (Zone 1/2) for a few days to confirm you're actually recovered before stacking more interval work on top of this one.
