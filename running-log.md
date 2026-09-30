@@ -270,3 +270,12 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against the workout's own stated structure (3x8min w/ 2min rest) and against general return-to-training guidance given the self-reported illness/time off.
 
 **Verdict: too hard for a comeback session.** Pace was well controlled and consistent across all three reps, but heart rate climbed steadily anyway (Zone 2/3 → Zone 3 → Zone 4, spiking into Zone 5) and never fully recovered during the short rest jogs or even the cooldown — a classic sign of cardiovascular strain rather than a pacing problem. Going straight into a fast, evenly-paced interval session the same day as "back after a week off" is a common way to prolong or relapse an illness, even when the pace itself looks fine on paper. For the next session, run by feel/HR rather than a fixed pace: keep it easy (Zone 1/2) for a few days to confirm you're actually recovered before stacking more interval work on top of this one.
+
+## 2026-09-30 — Afternoon Weight Training
+
+- Activity type: Weight Training, 50:19 duration (no distance/pace — strength session)
+- Heart rate: avg 105.7 bpm, max 123 bpm — comfortably Zone 1 throughout, never spiking into cardio territory
+- 319 calories, relative effort 7 (moderate, in line with a controlled lifting session rather than a circuit-style conditioning workout)
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026, where strength is called for 2x/week hypertrophy focus plus ankle stability work each session); judged against that general guidance and against yesterday's flagged-too-hard interval comeback session
+
+**Verdict: on target, and good sequencing.** Low, steady HR the whole session confirms this stayed a strength stimulus rather than turning into extra cardiovascular load — exactly the kind of session to follow yesterday's flagged-too-hard interval set, since it adds training value without asking more of an already-strained cardiovascular system. Nothing to adjust; keep the next run or interval session easy (Zone 1/2) to complete the recovery yesterday's note called for before any harder running work resumes.
