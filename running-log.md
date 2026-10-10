@@ -331,3 +331,14 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period), so both are judged against general easy-aerobic guidance and the standing pattern of needing real recovery after Apex sessions
 
 **Verdict: on target.** The run matched its "Chill" name — heart rate stayed in Zone 1 almost throughout despite a hilly route, and the brief mid-run stops look like routine pauses (lights, crossings) rather than anything concerning. This is a good example of the rest-day-then-easy-day sequencing the plan wants after a hard Tuesday session, and a nice contrast to Oct 2/Oct 4's pattern of stacking load without a gap. The ride was too short and low-effort to read as a training stimulus either way. Nothing to adjust — keep sequencing easy days this way after Apex sessions.
+
+## 2026-10-10 — Afternoon Run
+
+- Distance: 5.08km, moving time 29:25, elapsed time 35:04 (~5:39 of stopped time) — location logged in Kiama rather than Sydney, consistent with a travel/sightseeing day away from the usual routes
+- Pace: ~5:48/km (moving basis). By 1km lap: 5:47 → 6:00 → 5:46 → 5:54 → 5:37/km, plus a short closing partial lap — flat and unhurried throughout, no pickup
+- Heart rate: avg 143.0 bpm, max 161 bpm (Z1 ≤144/Z2 145-160/Z3 161-168). By lap: 134.7 → 143.7 → 144.4 → 142.9 → 148.4 bpm, then 159.3 bpm on the final ~79m partial lap — essentially a Zone 1/2-border effort the whole way, with the one Zone 2/3-border touch confined to a few final strides, not sustained
+- Terrain: mild, 24m gain over 5km with one rolling middle kilometre (lap 2, -0.56 grade then back up) — nothing steep enough to explain any HR drift on its own
+- One rest day (Oct 9, nothing logged) preceded this, continuing the gap after Oct 8's easy "Chill 10k" + short ride
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance
+
+**Verdict: on target.** Short, flat-paced, Zone 1/2 effort with only a token touch of Zone 2/3 right at the very end — a clean easy day, and a sensible, low-key session to log on what reads as a travel/sightseeing day away from home. Nothing to adjust; continue the current pattern of a rest day or easy day between any harder sessions.
