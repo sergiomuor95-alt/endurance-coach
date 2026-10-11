@@ -342,3 +342,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance
 
 **Verdict: on target.** Short, flat-paced, Zone 1/2 effort with only a token touch of Zone 2/3 right at the very end — a clean easy day, and a sensible, low-key session to log on what reads as a travel/sightseeing day away from home. Nothing to adjust; continue the current pattern of a rest day or easy day between any harder sessions.
+
+## 2026-10-11 — Morning Run
+
+- Distance: 5.10km, moving time 26:51, elapsed time 38:42 (~11:51 of stopped time) — still logged in Kiama, so this continues the travel stretch from Oct 10
+- Pace: ~5:16/km overall (moving basis). By 1km lap: 5:46 → 5:07 → 5:00 → 5:16 → 5:22/km, then a quick ~100m closing stretch — a faster middle third easing back, similar shape to Oct 8's "Chill 10k"
+- Heart rate: avg 138.7 bpm, max 167 bpm (Z1 ≤144/Z2 145-160/Z3 161-168). By lap: 125.6 → 132.6 → 138.9 → 145.7 → 149.6 bpm, then 164.6 bpm on the final ~100m partial lap — Zone 1 through the first three laps, drifting to Zone 2 by lap 4-5, with the one Zone 3 touch confined to a short, sharp finish
+- Terrain: lap 5 carried a real climb (42.6m gain over that km, +3.3% average grade), which lines up with the HR drift into Zone 2 there; the final partial lap was a steep downhill (-8.7% grade, ~3:20/km pace) — a short sprint finish rather than sustained hard effort
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance
+
+**Verdict: on target.** Average effort sat comfortably in Zone 1/2, and the only Zone 3 touch is explained by a genuine hill climb followed by a short downhill sprint finish — not uncontrolled drift. This is the same easy, unhurried pattern as the last several logged runs, with another mid-run stop (~12 min) consistent with the recent string of stop-skewed elapsed times, likely routine pauses on an unfamiliar travel route. Nothing to adjust; keep the current easy-day rhythm.
