@@ -352,3 +352,12 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026), judged against general easy-aerobic guidance
 
 **Verdict: on target.** Average effort sat comfortably in Zone 1/2, and the only Zone 3 touch is explained by a genuine hill climb followed by a short downhill sprint finish — not uncontrolled drift. This is the same easy, unhurried pattern as the last several logged runs, with another mid-run stop (~12 min) consistent with the recent string of stop-skewed elapsed times, likely routine pauses on an unfamiliar travel route. Nothing to adjust; keep the current easy-day rhythm.
+
+## 2026-10-12 — Morning Ride
+
+- Distance: 1.75km, moving time 6:47, elapsed time 8:46 — a very short spin, more errand/commute than training session
+- Heart rate: avg 120 bpm (Zone 1), max 152 bpm (brief touch into Zone 2; Z1 ≤144/Z2 145-160/Z3 161-168/Z4 169-180/Z5 181+)
+- Relative effort 1, 81 calories — negligible training load either way
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026); nothing this short and easy needs judging against a target
+
+**Verdict: on target, essentially a non-event.** Too short and low-effort to register as a training stimulus in either direction — no adjustment needed, nothing to flag for the next session.
