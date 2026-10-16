@@ -361,3 +361,13 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026); nothing this short and easy needs judging against a target
 
 **Verdict: on target, essentially a non-event.** Too short and low-effort to register as a training stimulus in either direction — no adjustment needed, nothing to flag for the next session.
+
+## 2026-10-15 — Morning Walk (Ubud, Indonesia)
+
+- Distance: 13.23km, moving time 1:49:00, elapsed time 8:41:50 (a full-day outing, not a continuous walk: the later km laps show speeds up to ~13.25 m/s / 47+ km/h with cadence dropping to 0, consistent with stretches of car/scooter transport between stops on a Bali sightseeing day rather than sustained walking)
+- Heart rate: avg 117.8 bpm, max 139 bpm (Z1 ≤144) — comfortably Zone 1 the whole time, tapering to very low HR (62-96 bpm) in the final laps, which line up with the vehicle-speed segments
+- Elevation gain: 145m over the walked portions
+- Relative effort 18, 913 calories — a low, non-training stimulus consistent with a day of walking around rather than exercise
+- No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026); also marks a change of location to Ubud, Indonesia (previous sessions were in Kiama/Sydney), so this reads as a travel day
+
+**Verdict: on target, essentially a non-event for training.** This was a day of sightseeing on foot and partly by vehicle, not a workout — heart rate stayed low and relaxed throughout, nothing to flag. Nothing to adjust; just worth keeping an eye on whether easy aerobic days keep showing up while traveling, since they can quietly lapse on trips like this.
