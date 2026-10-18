@@ -371,3 +371,14 @@ Entries below are added automatically after each analyzed activity.
 - No day-specific target in plan.md yet (pre-plan base period, plan starts 7 Dec 2026); also marks a change of location to Ubud, Indonesia (previous sessions were in Kiama/Sydney), so this reads as a travel day
 
 **Verdict: on target, essentially a non-event for training.** This was a day of sightseeing on foot and partly by vehicle, not a workout — heart rate stayed low and relaxed throughout, nothing to flag. Nothing to adjust; just worth keeping an eye on whether easy aerobic days keep showing up while traveling, since they can quietly lapse on trips like this.
+
+## 2026-10-18 — Morning Run (Canggu, Bali, Indonesia)
+
+- Distance: 5.76km, moving time 29:37, elapsed time 31:04 (~1:27 of stopped time) — location shifted to Canggu, Bali, continuing the travel stretch that started in Kiama and moved through Ubud
+- Pace: ~5:09/km overall (moving basis), building steadily across the run. By 1km lap (moving basis): 5:29 → 5:12 → 5:07 → 5:00 → 5:05 → ~4:56/km (final partial 758m lap) — a clean progression run, each lap faster than the one before rather than a flat easy jog
+- Heart rate: avg 154.1 bpm, max 173 bpm (Z1 ≤144/Z2 145-160/Z3 161-168/Z4 169-180). By lap: 135.0 (Z1) → 146.4 (Z2) → 155.5 (Z2) → 163.6 (Z3) → 164.1 (Z3) → 163.9 (Z3) bpm — started easy, climbed steadily, and held Zone 3 for the back half
+- Terrain: 30m elevation gain over 5.76km, mostly flat beachside road with only short rolling sections — not enough climbing to explain the pace/HR build on its own; this reads as deliberate effort rather than terrain-driven drift
+- Context: three rest days (Oct 16-17, nothing logged) separate this from the Oct 15 Ubud walk, so there was ample recovery going in. No day-specific target in plan.md yet (pre-plan base period; the 20-week plan starts 7 Dec 2026), so judged against general easy-aerobic guidance and the mostly-Zone-1 pattern of the travel runs logged since Oct 8
+- Relative effort 20, 439 calories — a clear step up in intensity versus the Zone-1-dominant travel runs logged over the past week, despite the modest distance
+
+**Verdict: harder than the recent pattern, but not a problem in isolation.** This was a genuine progression/tempo-leaning effort — average HR already in Zone 2 and the back half held in Zone 3, with pace dropping under 5:00/km by the finish — a real break from the Zone-1 shakeout runs that have filled this travel stretch. It followed a full three-day rest gap, so nothing here looks like overreaching. Adjust: no change needed to this session itself, but default back to easy Zone 1 effort for the next run or two while still in this pre-plan base period, and save harder efforts like this for once the structured plan's quality days (Tue Apex, Fri Apex) are actually in place from 7 Dec.
