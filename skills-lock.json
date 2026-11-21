@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "brand-identity": {
+      "source": "rampstackco/claude-skills",
+      "commit": "9d281db6e7a5c4a0084ba89c91633a07f5f7e42b",
+      "sourceType": "github",
+      "skillPath": "skills/brand-identity/SKILL.md",
+      "computedHash": "1bcb500b1ae2099d2d6f397b163b97e2df3c2d09a0b4e4b0c2178475f3e2d4c1"
+    }
+  }
+}
